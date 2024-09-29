@@ -1,5 +1,7 @@
 use std::io;
 
+// Main Function
+
 fn main() {
     // Создание строк для ввода
     let mut a_str = String::new();
